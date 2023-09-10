@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aman Kashyap's Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
+        section {
+            margin: 20px 0;
+            padding: 20px;
+            background-color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Aman Kashyap's Website</h1>
+    </header>
+    <section>
+        <h2>About Me</h2>
+        <p>
+            Hello! I'm Aman Kashyap. This is a brief introduction about me. I'm passionate about [I like play Football and online Games].
+        </p>
+    </section>
+    <section>
+        <h2>Contact</h2>
+        <p>
+            You can contact me at: <a href="mailto:aman56789jas@gmail.com">youremail@example.com</a>
+        </p>
+    </section>
+</body>
+</html>
